@@ -3,10 +3,10 @@
 	"package": "gay.thehivemind.betterbehaviour.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"CreeperEntityMixin",
-		"EndermanEntityMixin",
-		"FireballEntityMixin",
-		"ZombieEntityMixin"
+      "CreeperMixin",
+      "EnderManMixin",
+      "LargeFireballMixin",
+      "ZombieMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
