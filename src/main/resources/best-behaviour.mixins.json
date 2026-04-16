@@ -5,8 +5,7 @@
 	"mixins": [
       "CreeperMixin",
       "EnderManMixin",
-      "LargeFireballMixin",
-      "ZombieMixin"
+      "LargeFireballMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
