@@ -20,7 +20,7 @@
                 pipewire
                 flite
               ];
-              java = pkgs.jdk21;
+              java = pkgs.jdk25;
             in
             pkgs.mkShell {
               nativeBuildInputs = [ java ];
